@@ -4,16 +4,19 @@
     <item
         android:id="@+id/homeFragment"
         android:title="Главная"
+        android:icon="@drawable/ic_home"
         />
 
     <item
         android:id="@+id/searchFragment"
         android:title="Поиск"
+        android:icon="@drawable/ic_search"
         />
 
     <item
         android:id="@+id/watchListFragment"
         android:title="Список Фильмов"
+        android:icon="@drawable/ic_watch_list"
         />
 
 </menu>
